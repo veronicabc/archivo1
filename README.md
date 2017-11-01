@@ -2,7 +2,7 @@ Empezamos
 
 Prueba con las *imagenes*
 
-#Quiero intertar una imagen de Google
+#Quiero una imagen de Google
  
 ![lindo gatito](http://imagendegatos.com/wp-content/uploads/2017/04/10-Gatos-Mas-Bonitos-Del-Mundo.jpg)
 
